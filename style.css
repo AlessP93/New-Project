@@ -1,0 +1,60 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 1450px;
+  text-align: center;
+}
+
+.logo{
+  width: 250px;
+  text-align: center;
+}
+
+.textlogo{
+  color: lightgreen;
+}
+
+.choose{
+  background-color: lightgreen;
+  width: 1000px;
+  margin: auto;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container2{
+  width: 1000px;
+  margin: auto;
+  color: white
+}
+
+.nome{
+  font-size: 25px;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
+.carica{
+  background-color: orange;
+  width: 300px;
+  margin-left;
+  border-radius: 5px;
+}
+
+.carica2{
+  background-color: lightgreen;
+  width: 500px;
+  margin-left;
+  border-radius: 5px
+}
+
+.carica3{
+  background-color: red;
+  width: 100px;
+  margin-left;
+  border-radius: 5px
+}
